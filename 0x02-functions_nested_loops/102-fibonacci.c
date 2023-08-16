@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - program to find first fibonacci number
+ * main - program to find first 50 fibonacci number
  * Return: 0
  */
 
