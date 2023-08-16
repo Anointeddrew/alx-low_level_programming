@@ -11,7 +11,7 @@ int main(void)
 	int next;
 	int i;
 
-	printf("%d, ", term1);
+	printf("%d", term1);
 	for (i = 1 ; i < 50 ; i++)
 	{
 		printf("%d", term2);
