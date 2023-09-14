@@ -11,7 +11,7 @@
  */
 int main(int __attribute__((__unused__)) argc, char *argv[])
 {
-	nt num1, num2;
+	int num1, num2;
 	char *op;
 
 	if (argc != 4)
