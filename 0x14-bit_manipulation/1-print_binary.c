@@ -16,11 +16,11 @@ void print_binary(unsigned long int n)
 		if (exist & 1)
 		{
 			_putchar('1');
-			exist++;
+			num++;
 		}
-		else if (exist)
+		else if (num)
 			_putchar('0');
 	}
-	if (!exist)
+	if (!num)
 		_putchar('0');
 }
